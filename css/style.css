@@ -1,0 +1,140 @@
+body {
+  background-color: #d6e1ff;
+  margin-top: 15vh;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+#illustration {
+  border-radius: 30px 30px 0 0;
+}
+
+p {
+  text-align: center;
+  width: 75%;
+  margin: auto;
+  padding: 15px 15px;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  margin: auto;
+}
+
+.card-description {
+  color: #8d98a9;
+  font-weight: 500;
+}
+
+.content-container {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0 0 30px 30px;
+}
+
+.card-title {
+  font-size: 2em;
+  font-weight: bolder;
+}
+
+.card-plan-container {
+  display: flex;
+  flex-direction: row;
+  width: 75%;
+  margin: auto;
+}
+
+.button-payment {
+  border: solid 1px;
+  width: 75%;
+  margin: auto;
+}
+
+#cancel-order-button {
+  text-decoration: none;
+}
+
+.card-action-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 250px;
+  margin: 0 0 15px 0;
+}
+
+.card-plan-container {
+  background-color: #f8f9fe;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.button-payment {
+  border: none;
+  background-color: #382ae1;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.button-payment {
+  color: white;
+  font-size: 0.9em;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.button-payment:hover {
+  background-color: #766cf1;
+}
+
+ul {
+  flex: 2;
+  list-style: none;
+}
+
+#button-change {
+  color: #372bb7;
+}
+
+#button-change:hover {
+  color: #766cf1;
+  text-decoration: none;
+}
+
+.icon-music {
+  height: 50px;
+  width: 50px;
+  padding: 10px;
+}
+
+#cancel-order-button {
+  display: block;
+  color: #8d98a9;
+  margin: 15px 15px;
+}
+
+#cancel-order-button:hover {
+  color: #000;
+}
+
+.card-plan-list {
+  margin-left: -15px;
+}
+
+#list-title {
+  font-weight: bold;
+}
+
+#list-price {
+  color: #8d98a9;
+}
+
+.button-payment {
+  box-shadow: 0px 15px 20px #dfdcf9;
+}
