@@ -5,7 +5,7 @@ It was pretty satyisfing to see the end result!
 
 The challenge: https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj  
 
-Preview result (image): https://ibb.co/1f8Y4JG  
+Preview result: https://delacrucen.github.io/order-summary-component/
 Made with HTML5 and CSS3 using flexbox. 
 
 Design provided by frontendmentor.io
