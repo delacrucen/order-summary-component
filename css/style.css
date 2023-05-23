@@ -100,11 +100,12 @@ ul {
 
 #button-change {
   color: #372bb7;
+  text-decoration: none;
 }
 
 #button-change:hover {
   color: #766cf1;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .icon-music {
